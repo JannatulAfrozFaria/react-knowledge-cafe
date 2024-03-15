@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/9wVfNq2/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+      "title": "The Art of Baking: Perfecting the Chocolate Chip Cookie",
+      "author": "John Doey",
+      "author_img": "https://i.ibb.co/5j2K203/istockphoto-534684535-1024x1024.jpg",
+      "posted_date": "2022-02-14",
+      "reading_time": 10,
+      "hashtags": ["#baking", "#recipes", "#deserts"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/qYB70Ty/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "The Future of Artificial Intelligence:  A Glimpse into Tech Research",
+      "author": "Janey Smith",
+      "author_img": "https://i.ibb.co/ynYpYv1/istockphoto-855341578-1024x1024.jpg",
+      "posted_date": "2022-02-15",
+      "reading_time": 8,
+      "hashtags": ["#science", "#research"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/vh3pP8B/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Exploring the Mysteries of Quantum Computing",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/Qp5YWbW/istockphoto-932763106-1024x1024.jpg",
+      "posted_date": "2022-02-16",
+      "reading_time": 12,
+      "hashtags": ["#quantumComputing", "#technology", "#science"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/dDBPF3F/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+      "title": "Traveling on a Budget: Tips for affordable adventures",
+      "author": "Roby Williams",
+      "author_img": "https://i.ibb.co/tD1v6L1/istockphoto-1362723536-1024x1024.jpg",
+      "posted_date": "2022-02-17",
+      "reading_time": 15,
+      "hashtags": ["#eTravel","#budgetTravel", "#adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/sQBKCXm/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/K57pHfz/istockphoto-2012376364-1024x1024.jpg",
+      "posted_date": "2022-02-18",
+      "reading_time": 7,
+      "hashtags": ["#beginners", "#es6"]
+    }
+  ]
+  
